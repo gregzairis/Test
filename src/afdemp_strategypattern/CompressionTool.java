@@ -11,7 +11,7 @@ package afdemp_strategypattern;
  */
 public interface CompressionTool {
     
-    
+    //fadsfffagfsgsdfgsdgs
     public void compressFile();
     
 }
